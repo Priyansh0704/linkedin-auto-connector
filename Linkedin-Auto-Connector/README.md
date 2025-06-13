@@ -59,4 +59,4 @@ This repository contains a Python script to automate sending connection requests
 
 ## Contact
 
-Ahmed Mujtaba - [Your LinkedIn Profile](https://www.linkedin.com/in/creative-programmer/)
+Priyansh Goyal - [Your LinkedIn Profile](https://www.linkedin.com/in/priyansh-goyal-48a422250/)
